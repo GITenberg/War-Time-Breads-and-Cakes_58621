@@ -1,11 +1,16 @@
 _repo: War-Time-Breads-and-Cakes_58621
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58621-h/images/cover.jpg
 creator:
   author:
     agent_name: Handy, Amy L.
     gutenberg_agent_id: '50058'
     url: http://www.gutenberg.org/2009/agents/50058
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58621#War-Time-Breads-and-Cakes
 gutenberg_issued: '2019-01-05'
 gutenberg_type: Text
 identifiers:
